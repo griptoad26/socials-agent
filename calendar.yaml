@@ -1,0 +1,39 @@
+# socials-agent content calendar
+# Each entry: ISO 8601 timestamp (Pacific) + platform + text.
+# Text uses {date} and {weekday} placeholders for light templating.
+# 3 posts/day baseline across X, Mastodon, Bluesky.
+
+timezone: America/Los_Angeles
+
+# Day 1 — Wed 2026-07-01
+- at: 2026-07-01T09:00:00-07:00
+  platform: x
+  text: "📈 Heading into the second half of 2026 — what are your top 3 priorities for the next quarter? Reply with one word."
+- at: 2026-07-01T12:30:00-07:00
+  platform: mastodon
+  text: "Reminder: you can now triage replies across X, Mastodon, and Bluesky from a single helpdesk flow. Less context-switching, faster response times."
+- at: 2026-07-01T17:45:00-07:00
+  platform: bluesky
+  text: "Wednesday afternoon thought: the best automation is the kind nobody notices. 🤖"
+
+# Day 2 — Thu 2026-07-02
+- at: 2026-07-02T08:30:00-07:00
+  platform: x
+  text: "📣 New post just shipped. Stay tuned — more updates on the roadmap coming this week."
+- at: 2026-07-02T13:00:00-07:00
+  platform: bluesky
+  text: "Hot take: most 'AI agents' are just well-templated prompts. The interesting ones keep state."
+- at: 2026-07-02T18:15:00-07:00
+  platform: mastodon
+  text: "End-of-day check-in: what did you ship today? 🚀"
+
+# Day 3 — Fri 2026-07-03
+- at: 2026-07-03T09:15:00-07:00
+  platform: bluesky
+  text: "Friday wind-down: read one paper you wouldn't normally read. My pick this week: whatever's been on your desk the longest."
+- at: 2026-07-03T11:45:00-07:00
+  platform: x
+  text: "🛠️ Weekend project: rename one variable in your codebase. Promise it'll help."
+- at: 2026-07-03T16:30:00-07:00
+  platform: mastodon
+  text: "If you ship on Fridays, document the rollback. Future-you will be grateful. 🙌"
