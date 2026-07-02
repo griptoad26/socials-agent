@@ -1,0 +1,17 @@
+{
+  "counts": {
+    "billing": 0,
+    "bug": 0,
+    "feature": 0,
+    "other": 0
+  },
+  "ids": [
+    "bluesky_2b8f36e7f6a4",
+    "bluesky_9c81445002d0",
+    "mastodon_ce67564f5332",
+    "x_c830736972fc",
+    "x_fbfc7cc4302e"
+  ],
+  "last_run": "2026-07-01T17:39:28-07:00",
+  "tasks_created_total": 2
+}

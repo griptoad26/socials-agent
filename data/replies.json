@@ -1,0 +1,50 @@
+{
+  "last_poll": "2026-07-01T17:39:28-07:00",
+  "replies": [
+    {
+      "handle": "ada_lovelace",
+      "id": "x_fbfc7cc4302e",
+      "platform": "x",
+      "received_at": "2026-07-01T17:37:09-07:00",
+      "since": "2026-06-30T17:37:09-07:00",
+      "stub": true,
+      "text": "your scheduler post was helpful \u2014 is there an open API?"
+    },
+    {
+      "handle": "grace_h",
+      "id": "x_c830736972fc",
+      "platform": "x",
+      "received_at": "2026-07-01T17:37:09-07:00",
+      "since": "2026-06-30T17:37:09-07:00",
+      "stub": true,
+      "text": "love this. we have a feature request: a CLI flag for dry-run."
+    },
+    {
+      "handle": "mastodon_fan",
+      "id": "mastodon_ce67564f5332",
+      "platform": "mastodon",
+      "received_at": "2026-07-01T17:37:09-07:00",
+      "since": "2026-06-30T17:37:09-07:00",
+      "stub": true,
+      "text": "hey, the 12:30 post on the helpdesk flow \u2014 is the source on github?"
+    },
+    {
+      "handle": "bsky_user.bsky.social",
+      "id": "bluesky_2b8f36e7f6a4",
+      "platform": "bluesky",
+      "received_at": "2026-07-01T17:37:09-07:00",
+      "since": "2026-06-30T17:37:09-07:00",
+      "stub": true,
+      "text": "found a bug: posting the same entry twice when the daemon restarts."
+    },
+    {
+      "handle": "happy_bsky",
+      "id": "bluesky_9c81445002d0",
+      "platform": "bluesky",
+      "received_at": "2026-07-01T17:37:09-07:00",
+      "since": "2026-06-30T17:37:09-07:00",
+      "stub": true,
+      "text": "great reminder. ship it."
+    }
+  ]
+}

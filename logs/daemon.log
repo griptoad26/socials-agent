@@ -1,0 +1,15 @@
+2026-07-01T17:39:28-07:00	[start] socials-agent daemon — pid=2948099
+2026-07-01T17:39:28-07:00	[info] sched=60s reply=120s triage=60s summary=300s
+2026-07-01T17:39:28-07:00	[info] calendar loaded: 9 entries
+2026-07-01T17:39:35-07:00	[signal] received 15, shutting down
+2026-07-01T17:39:35-07:00	[stop] daemon exited cleanly
+2026-07-01T17:39:28-07:00	[start] socials-agent daemon — pid=2948099
+2026-07-01T17:39:28-07:00	[info] sched=60s reply=120s triage=60s summary=300s
+2026-07-01T17:39:28-07:00	[info] calendar loaded: 9 entries
+[poll] x: 2 fresh
+[poll] mastodon: 1 fresh
+[poll] bluesky: 2 fresh
+[poll] total replies stored: 5 (+0 new)
+[triage] processed=0 new, skipped=5, billing=0 bug=0 feature=0 other=0, tasks=0
+2026-07-01T17:39:35-07:00	[signal] received 15, shutting down
+2026-07-01T17:39:35-07:00	[stop] daemon exited cleanly
